@@ -1,4 +1,4 @@
-Titanic Survival Prediction
+#Titanic Survival Prediction
 This project is a machine learning-based prediction model that aims to predict whether a passenger on the Titanic would survive or not based on various features like age, gender, class, etc. The dataset used is the famous Titanic dataset provided by Kaggle.
 
 Table of Contents
